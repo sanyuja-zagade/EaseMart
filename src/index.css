@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+/* Clerk User Profile */
+.cl-avatarBox {
+  width: 3rem;
+  height: 3rem;
+}
+
+/* HOME PAGE - Swiper Navigator Arrow */
+.swiper-button-next,
+.swiper-button-prev {
+  color: white !important;
+}
+
+/* PRODUCT PAGE - filter section input checkbox & range */
+.filter-input {
+  background-color: #ffffff;
+  accent-color: #011631;
+  border: 1px solid #ccc;
+  color: #333;
+}
